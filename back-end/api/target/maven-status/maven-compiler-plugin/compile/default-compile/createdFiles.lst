@@ -1,0 +1,9 @@
+com\senla\shop\api\dao\IBookDao.class
+com\senla\shop\api\manager\IBookManager.class
+com\senla\shop\api\dao\IGenericDao.class
+com\senla\shop\api\dao\IOrderDao.class
+com\senla\shop\api\dao\IReaderDao.class
+com\senla\shop\api\manager\IManager.class
+com\senla\shop\api\manager\IOrderManager.class
+com\senla\shop\api\manager\IReaderManager.class
+com\senla\shop\api\facade\IFacade.class

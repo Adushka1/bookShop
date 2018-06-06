@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotations" />
+        <module name="api" />
+        <module name="csv" />
+        <module name="dao" />
+        <module name="di" />
+        <module name="enam" />
+        <module name="enums" />
+        <module name="executor" />
+        <module name="manager" />
+        <module name="model" />
+        <module name="server" />
+        <module name="util" />
+        <module name="view" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="annotations" target="1.5" />
+      <module name="api" target="1.5" />
+      <module name="csv" target="1.5" />
+      <module name="dao" target="1.5" />
+      <module name="di" target="1.5" />
+      <module name="enam" target="1.8" />
+      <module name="enums" target="1.5" />
+      <module name="executor" target="1.5" />
+      <module name="manager" target="1.5" />
+      <module name="model" target="1.5" />
+      <module name="qqqqqq" target="1.8" />
+      <module name="server" target="1.5" />
+      <module name="util" target="1.5" />
+      <module name="view" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
