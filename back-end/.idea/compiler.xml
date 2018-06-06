@@ -22,20 +22,21 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="annotations" target="1.5" />
-      <module name="api" target="1.5" />
-      <module name="csv" target="1.5" />
-      <module name="dao" target="1.5" />
-      <module name="di" target="1.5" />
+      <module name="annotations" target="1.8" />
+      <module name="api" target="1.8" />
+      <module name="csv" target="1.8" />
+      <module name="dao" target="1.8" />
+      <module name="di" target="1.8" />
       <module name="enam" target="1.8" />
-      <module name="enums" target="1.5" />
-      <module name="executor" target="1.5" />
-      <module name="manager" target="1.5" />
-      <module name="model" target="1.5" />
+      <module name="enums" target="1.8" />
+      <module name="executor" target="1.8" />
+      <module name="manager" target="1.8" />
+      <module name="model" target="1.8" />
+      <module name="q1" target="1.8" />
       <module name="qqqqqq" target="1.8" />
-      <module name="server" target="1.5" />
-      <module name="util" target="1.5" />
-      <module name="view" target="1.5" />
+      <module name="server" target="1.8" />
+      <module name="util" target="1.8" />
+      <module name="view" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

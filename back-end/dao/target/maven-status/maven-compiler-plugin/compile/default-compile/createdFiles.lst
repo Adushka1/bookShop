@@ -1,5 +1,0 @@
-com\senla\shop\dao\GenericDao.class
-com\senla\shop\dao\BookDao.class
-com\senla\shop\dao\hibernateutil\HibernateUtil.class
-com\senla\shop\dao\OrderDao.class
-com\senla\shop\dao\ReaderDao.class
